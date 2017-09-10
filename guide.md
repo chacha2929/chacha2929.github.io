@@ -3,6 +3,7 @@
 # 프로젝트 위해 필요한 선택자
 
 ```
+
 1.서버선택
 2.백엔드 언어선택
 3.데이터베이스 선택
@@ -46,4 +47,9 @@
  - 네이티브(웹 & 앱)
  ```
  
+ ```
+ https://github.com/riahnrhyme
+ swiper jquery
+ https://github.com/abhbtbb - 추천
+ ```
  
