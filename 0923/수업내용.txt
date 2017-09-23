@@ -1,0 +1,21 @@
+Node.js + React +SPA
+
+1.서버 -> 물리적인서버
+ - 최신버전, 안정버전 (LTS) - 2~3년 관리해준다.
+ - https://nodejs.org/ko/  LTS 다운로드 후 설치
+ - Node 설치되었는지 확인 (command(cmd)에서 확인한다) node -v
+ - Node를 설치하면 NPM(node package manager)이 자동으로 설치된다
+
+	cmd에서 node.js실행중 ctrl+c 두번 누르면 종료
+	cmd에서  cd project -> 해당폴더 진입
+	cmd에서  dir 디렉토리 확인
+	cmd에서  node server.js node.js 해당파일 실행
+	cmd에서  방향키 위로버튼을 누르면 이전 명령어 불러옴
+  
+	cmd에서 npm init - 실행하면 해당폴더에 package.jason파일 생성
+
+	*express 설치
+	npm install express --save
+	npm supervisor -g
+
+2.OS -> 윈도우
