@@ -1,0 +1,54 @@
+```
+React -> 웹어플리케이션
+React Native -> 네이티브앱(아이폰, 안드로이드)
+
+서비스
+웹 -> node, react(프론트엔드)
+아이폰 -> 맥에서 개발( xcode, swift, object-c )
+안드로이드 -> 안드로이드스튜디오(java)
+참고사이트 https://velopert.com
+
+백엔드 -> Restful API
+
+----------------------------------------
+React설치 
+
+cmd 경로지정후(ex cd Downloads -> node.js가 깔려있어서 가능)
+1.npm install -g create-react-app
+2.npm install -g create-react-native-app
+
+프로젝트 폴더생성(2개)
+1.create-react-app webapp(프로젝트폴더)
+2.create-react-app mobileapp(프로젝트폴더)
+
+프로젝트 폴더로 들어가서  
+1.cd webapp
+2.npm start - 시작
+3.브라우저 셋팅이 되면 완료
+4.src폴더내용들을 지운다??
+5.src index.js파일을 만든다
+6.코드 작성은 JSX로 설정
+7.src App.js(컴포넌트파일) 
+
+**React Developer Tools(React 개발자도구) 크롬에 추가설치
+컴포넌트파일은 파일명앞자가 대문자
+----------------------------------------
+
+React란?
+
+*장점
+1.JSX문법 -> html과 비슷한 문법을 가지고 있다.
+-xml기반으로 해서 제작
+2.단방향 데이터 흐름 
+3.컴포넌트 단위의 개발
+4.virtual dom
+
+*단점
+1.데이터 흐름의 뎁스가 깊어지면 관리가 힘들어 진다.(redux->http://d2.naver.com/helloworld/1848131)
+2.검색엔진에 검색이 되지 않는다.(서버사이드 렌더링)
+3.러닝커브
+
+
+
+```
+
